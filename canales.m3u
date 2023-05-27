@@ -1,76 +1,112 @@
 #EXTM3U
-
-#EXTINF:-1,PERU  || AMERICA TV [HD] (G)
+#EXTINF:0,AMERICA TV [HD] (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/1195.ts
-#EXTINF:-1,PERU  || ATV [HD] (G)
+#EXTINF:0,ATV [HD] (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/1202.ts
-#EXTINF:-1,PERU  || LATINA  [HD] (G)
+#EXTINF:0,LATINA  [HD] (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/1382.ts
-#EXTINF:-1,PERU  || PANAMERICANA [HD] (G)
+#EXTINF:0,PANAMERICANA [HD] (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/1402.ts
-#EXTINF:-1,PERU  || RPP [HD] (G)
+#EXTINF:0,RPP [HD] (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/1415.ts
-#EXTINF:-1,PERU || EXITOSA TV HD (I)
+#EXTINF:0,EXITOSA TV HD (I)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/18088.ts
-#EXTINF:-1,PERU || CANAL N HD (I)
+#EXTINF:0,CANAL N HD (I)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/18090.ts
-#EXTINF:-1,PERU II VNP NOTICIAS HD (PP)
+#EXTINF:0,VNP NOTICIAS HD (PP)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/21009.ts
-#EXTINF:-1,PERU ||TV PERU HD  (PP)
+#EXTINF:0,TV PERU HD  (PP)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/47124.ts
-#EXTINF:-1,PERU || BHTV HD (PP)
+#EXTINF:0,BHTV HD (PP)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/47150.ts
-#EXTINF:-1,PERU || IPE HD (PP)
+#EXTINF:0,IPE HD (PP)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/47151.ts
-#EXTINF:-1,PERU || AMERICA TV FHD (G)
+#EXTINF:0,AMERICA TV FHD (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/76826.ts
-#EXTINF:-1,PERU || WILLAX TV HD (G)
+#EXTINF:0,WILLAX TV HD (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/76828.ts
-#EXTINF:-1,PERU || TV PERU NOTICIA [HD] (G)
+#EXTINF:0,TV PERU NOTICIA [HD] (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/76829.ts
-#EXTINF:-1,PERU || KARIBEÑA TV HD (G)
+#EXTINF:0,KARIBEÑA TV HD (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/93083.ts
-#EXTINF:-1,PERU || NATIVA  TV HD (G)
+#EXTINF:0,NATIVA  TV HD (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/93084.ts
-#EXTINF:-1,PERU || VIVA TV HD (G)
+#EXTINF:0,VIVA TV HD (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/93085.ts
-#EXTINF:-1,PERU || USMP HD (G)
+#EXTINF:0,USMP HD (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/93086.ts
-#EXTINF:-1,PERU || PERU CHANNEL  HD (G)
+#EXTINF:0,PERU CHANNEL  HD (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/93087.ts
-#EXTINF:-1,PERU || TELELAIMA HD (G)
+#EXTINF:0,TELELAIMA HD (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/93088.ts
-#EXTINF:-1,PERU ||TV PERU HD (PP)
+#EXTINF:0,TV PERU HD (PP)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/95923.ts
-#EXTINF:-1,PERU ||VISION TV MUSICA HD (PP)
+#EXTINF:0,VISION TV MUSICA HD (PP)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/95924.ts
-#EXTINF:-1,PERU  || AMERICA TV [SD] (G)
+#EXTINF:0,AMERICA TV [SD] (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/1197.ts
-#EXTINF:-1,PERU  || ATV [SD] (G)
+#EXTINF:0,ATV [SD] (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/1203.ts
-#EXTINF:-1,PERU  || LATINA [SD] (G)
+#EXTINF:0,LATINA [SD] (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/1383.ts
-#EXTINF:-1,PERU  || PANAMERICANA  [SD] (G)
+#EXTINF:0,PANAMERICANA  [SD] (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/1403.ts
-#EXTINF:-1,PERU  || PERU MAGICO [SD] (G)
+#EXTINF:0,PERU MAGICO [SD] (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/1407.ts
-#EXTINF:-1,PERU  || RPP [SD] (G)
+#EXTINF:0,RPP [SD] (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/1416.ts
-#EXTINF:-1,PERU  || TV PERU [SD] (G)
+#EXTINF:0,TV PERU [SD] (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/1467.ts
-#EXTINF:-1,PERU || IPE SD (I)
+#EXTINF:0,PERU || IPE SD (I)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/18091.ts
-#EXTINF:-1,PERU || WILLAX SD (i)
+#EXTINF:0,PERU || WILLAX SD (i)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/18092.ts
-#EXTINF:-1,PERU II CANAL N SD (I)
+#EXTINF:0,PERU II CANAL N SD (I)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/21662.ts
-#EXTINF:-1,PERU ||BETHEL PE(PP)
+#EXTINF:0,PERU ||BETHEL PE(PP)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/68060.ts
-#EXTINF:-1,PERU || VIA TV (PP) HD
+#EXTINF:0,PERU || VIA TV (PP) HD
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/72252.ts
-#EXTINF:-1,PERU || PERU CHANNER  [SD] (G)
+#EXTINF:0,PERU || PERU CHANNER  [SD] (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/76832.ts
-#EXTINF:-1,PERU || ONDA DIGITAL [SD] (G)
+#EXTINF:0,PERU || ONDA DIGITAL [SD] (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/84571.ts
-#EXTINF:-1,PERU || SIN TV SD (G)
+#EXTINF:0,PERU || SIN TV SD (G)
+#EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/95922.ts
