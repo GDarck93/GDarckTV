@@ -80,6 +80,12 @@ http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/1203.ts
 #EXTINF:0,LATINA [SD] (G)
 #EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/1383.ts
+#EXTINF:0,LATINA HD
+#EXTGRP:PERU
+http://veotv.site:8080/GranJota/J11111111*/174314
+#EXTINF:0,LATINA SD
+#EXTGRP:PERU
+http://veotv.site:8080/GranJota/J11111111*/174315
 #EXTINF:0,PANAMERICANA  [SD] (G)
 #EXTGRP:PERU
 http://playentertainmentpro.ddns.net:80/IngeDemo01/11111111/1403.ts
