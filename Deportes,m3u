@@ -1,1 +1,154 @@
+#EXTM3U
+#EXTINF:0,WinSports+
+#EXTGRP:WinSports
+https://senalplus.xyz/CCW01/tracks-v1a1/mono.m3u8?token=N5MMO1DMJF1691204629
+#EXTINF:0,WinSports+ (SD)
+#EXTGRP:WinSports
+https://senalplus.xyz/CCWSD01/tracks-v1a1/mono.m3u8?token=EKWIMS0IYJ1691204648
+#EXTINF:0,WinSports
+#EXTGRP:WinSports
+https://senalplus.xyz/CCW02/tracks-v1a1/mono.m3u8?token=MQZ6TPINZV1691204667
+#EXTINF:0,Directv Sports
+#EXTGRP:Directv Sports
+https://senalplus.xyz/CED01/tracks-v1a1/mono.m3u8?token=F79ZJOASAK1691204687
+#EXTINF:0,Directv Sports 2
+#EXTGRP:Directv Sports
+https://senalplus.xyz/CED02/tracks-v1a1/mono.m3u8?token=2YR21H317Q1691204697
+#EXTINF:0,Directv Sports +
+#EXTGRP:Directv Sports
+https://senalplus.xyz/CEDP01/tracks-v1a1/mono.m3u8?token=9YMO8ZXJ3K1691204706
+#EXTINF:0,ESPN
+#EXTGRP:ESPN
+https://senalplus.xyz/CEE01/tracks-v1a1/mono.m3u8?token=MA802N4AS11691204718
+#EXTINF:0,ESPN2
+#EXTGRP:ESPN
+https://senalplus.xyz/CEE002/tracks-v1a1/mono.m3u8?token=9J0X40SSMU1691204734
+#EXTINF:0,ESPN3
+#EXTGRP:ESPN
+https://senalplus.xyz/CEE03/tracks-v1a1/mono.m3u8?token=F1V8FY0NNL1691204774
+#EXTINF:0,ESPN4
+#EXTGRP:ESPN
+https://senalplus.xyz/CEE04/tracks-v1a1/mono.m3u8?token=8LS0ZC29Z31691204786
+#EXTINF:0,ESPN+
+#EXTGRP:ESPN
+https://senalplus.xyz/CEEP01/tracks-v1a1/mono.m3u8?token=SKXMZMAXI31691204813
+#EXTINF:0,ESPN Extra
+#EXTGRP:ESPN
+https://senalplus.xyz/CEEE01/tracks-v1a1/mono.m3u8?token=0Z7RRNF0EU1691204821
+#EXTINF:0,Fox Sports 1 (MX)
+#EXTGRP:Fox Sports
+https://senalplus.xyz/CMF01/tracks-v1a1/mono.m3u8?token=0DLAA1R5UZ1691204833
+#EXTINF:0,Fox Sports 2 (MX)
+#EXTGRP:Fox Sports
+https://senalplus.xyz/CMF02/tracks-v1a1/mono.m3u8?token=H13LX4V4O11691204844
+#EXTINF:0,Fox Sports 3 (MX)
+#EXTGRP:Fox Sports
+https://senalplus.xyz/CMF03/tracks-v1a1/mono.m3u8?token=T0HQY8V7NC1691204857
+#EXTINF:0,Fox Sports 1 (SA)
+#EXTGRP:Fox Sports
+https://senalplus.xyz/CSAF01/tracks-v1a1/mono.m3u8?token=6PZMCASROJ1691204866
+#EXTINF:0,Fox Sports 2 (SA)
+#EXTGRP:Fox Sports
+https://senalplus.xyz/CSAF02/tracks-v1a1/mono.m3u8?token=RPDPMLN8A11691204877
+#EXTINF:0,Fox Sports 3 (SA)
+#EXTGRP:Fox Sports
+https://senalplus.xyz/CSAF03/tracks-v1a1/mono.m3u8?token=MP5DAC51IS1691204886
+#EXTINF:0,Fox Sports Premium
+#EXTGRP:+ Futbol
+https://senalplus.xyz/CMFP04/tracks-v1a1/mono.m3u8?token=LCY2J5HN4C1691204896
+#EXTINF:0,La Liga
+#EXTGRP:La Liga
+https://senalplus.xyz/CEL01/tracks-v1a1/mono.m3u8?token=UKNS9O23SJ1691204934
+#EXTINF:0,Liga de Campeones
+#EXTGRP:La Liga
+https://senalplus.xyz/CELC01/tracks-v1a1/mono.m3u8?token=J19TN11ZZ61691204944
+#EXTINF:0,DAZN
+#EXTGRP:La Liga
+https://senalplus.xyz/CEDL01/tracks-v1a1/mono.m3u8?token=EE0TPKKVEQ1691204954
+#EXTINF:0,bein Sports
+#EXTGRP:+ Futbol
+https://senalplus.xyz/CEB01/tracks-v1a1/mono.m3u8?token=LJHAMNXNXR1691204969
+#EXTINF:0,Tigo Sports (CR)
+#EXTGRP:+ Futbol
+https://senalplus.xyz/CCRT01/tracks-v1a1/mono.m3u8?token=LSVQD6I1V31691204977
+#EXTINF:0,FuTV (CR)
+#EXTGRP:+ Futbol
+https://senalplus.xyz/CCRF01/tracks-v1a1/mono.m3u8?token=9X68PAPUCD1691204986
+#EXTINF:0,TyC Sports (AR)
+#EXTGRP:+ Futbol
+https://senalplus.xyz/CATC01/tracks-v1a1/mono.m3u8?token=WDY59YXO281691204995
+#EXTINF:0,TNT Sports (AR)
+#EXTGRP:+ Futbol
+https://senalplus.xyz/CAT01/tracks-v1a1/mono.m3u8?token=NS10NPH0T31691205004
+#EXTINF:0,Caracol tv
+#EXTGRP:+ Futbol
+https://senalplus.xyz/CCC01/tracks-v1a1/mono.m3u8?token=A6OZP6HH731691205014
+#EXTINF:0,RCN
+#EXTGRP:+ Futbol
+https://senalplus.xyz/CCRN01/tracks-v1a1/mono.m3u8?token=FXLSNDU8ZX1691205022
+#EXTINF:0,Star+
+#EXTGRP:+ Futbol
 
+#EXTINF:0,WWE Channel
+#EXTGRP:+ Deportes
+https://senalplus.xyz/CEWC01/tracks-v1a1/mono.m3u8?token=J0AW51J6AD1691205045
+#EXTINF:0,MLB
+#EXTGRP:+ Deportes
+https://senalplus.xyz/CEM01/tracks-v1a1/mono.m3u8?token=5O6FAPCX9D1691205056
+#EXTINF:0,UFC
+#EXTGRP:+ Deportes
+https://senalplus.xyz/CEU01/tracks-v1a1/mono.m3u8?token=29TH71MQHW1691205070
+#EXTINF:0,NBA
+#EXTGRP:+ Deportes
+https://senalplus.xyz/CEN01/tracks-v1a1/mono.m3u8?token=L0PSM11NY61691205087
+#EXTINF:0,DAZN F1
+#EXTGRP:+ Deportes
+https://senalplus.xyz/CEDF01/tracks-v1a1/mono.m3u8?token=01ASRPJ5QZ1691205099
+#EXTINF:0,NBA TNT (Eventos)
+#EXTGRP:+ Deportes
+https://senalplus.xyz/CENT01/tracks-v1a1/mono.m3u8?token=4YUSOQ16ZZ1691205108
+#EXTINF:0,TUDN Sports USA
+#EXTGRP:+ Deportes
+https://senalplus.xyz/CMTN01/tracks-v1a1/mono.m3u8?token=C5TS6C2Z8M1691205117
+#EXTINF:0,TUDN Sports MX
+#EXTGRP:+ Deportes
+https://senalplus.xyz/CMTN02/tracks-v1a1/mono.m3u8?token=R7MA6DXVNE1691205152
+#EXTINF:0,TNT Sports
+#EXTGRP:Chile
+https://senalplus.xyz/CCHT01/tracks-v1a1/mono.m3u8?token=EVCD69RP0J1691205168
+#EXTINF:0,TNT Sports 2
+#EXTGRP:Chile
+https://senalplus.xyz/CCHT02/tracks-v1a1/mono.m3u8?token=HTJ7P9REJQ1691205178
+#EXTINF:0,TNT Sports 3
+#EXTGRP:Chile
+https://senalplus.xyz/CCHT03/tracks-v1a1/mono.m3u8?token=N8O3NDQ5Q51691205189
+#EXTINF:0,TNT Sports Stadio
+#EXTGRP:Chile
+https://senalplus.xyz/CCHTS01/tracks-v1a1/mono.m3u8?token=HJCORH7T1K1691205199
+#EXTINF:0,Liga 1
+#EXTGRP:Perú
+https://senalplus.xyz/CPL01/tracks-v1a1/mono.m3u8?token=JUJ518RU6S1691205211
+#EXTINF:0,Liga 1 MAX
+#EXTGRP:Perú
+https://senalplus.xyz/CPLM01/tracks-v1a1/mono.m3u8?token=A84FZ04KA21691205220
+#EXTINF:0,Liga 1 MAX SD
+#EXTGRP:Perú
+https://senalplus.xyz/CPLMSD01/tracks-v1a1/mono.m3u8?token=OX6RCJ880J1691205229
+#EXTINF:0,Gol Peru
+#EXTGRP:Perú
+https://senalplus.xyz/CPGP01/tracks-v1a1/mono.m3u8?token=LRPSSAAZQY1691205240
+#EXTINF:0,Gol Peru (SD)
+#EXTGRP:Perú
+
+#EXTINF:0,Movistar Deportes
+#EXTGRP:Perú
+https://senalplus.xyz/CEMD01/tracks-v1a1/mono.m3u8?token=X77PYXXJQK1691205262
+#EXTINF:0,Movistar Deportes (SD)
+#EXTGRP:Perú
+
+#EXTINF:0,ECDF
+#EXTGRP:Ecuador
+https://senalplus.xyz/CEEC01/tracks-v1a1/mono.m3u8?token=Q7DNN0DWHH1691205282
+#EXTINF:0,GolTV
+#EXTGRP:Ecuador
+https://senalplus.xyz/CPGT01/tracks-v1a1/mono.m3u8?token=8F8J8U3JXU1691205292
