@@ -2,7 +2,7 @@
 #EXTINF:0,WinSports
 #EXTGRP:WinSports
 http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/472549.m3u8
-#EXTINF:0,WinSports+
+#EXTINF:0,WinSports +
 #EXTGRP:WinSports
 http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/472550.m3u8
 #EXTINF:0,Directv Sports
