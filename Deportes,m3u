@@ -148,10 +148,10 @@ http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/472362.m3u8
 http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/472364.m3u8
 #EXTINF:0,Gol Peru
 #EXTGRP:Perú
-http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/472314.m3u8
-#EXTINF:0,Gol Peru (SD)
+http://streamgo.vip:8008/eudes/q5xM7ms27E6n/339097
+#EXTINF:0,Gol Peru (StreamGo)
 #EXTGRP:Perú
-http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/494312.m3u8
+http://streamgo.vip:8008/eudes/q5xM7ms27E6n/166609
 #EXTINF:0,Movistar Deportes
 #EXTGRP:Perú
 http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/472316.m3u8
