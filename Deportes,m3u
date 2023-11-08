@@ -142,25 +142,81 @@ http://streamgo.vip:8008/eudes/q5xM7ms27E6n/120425
 #EXTGRP:Chile
 http://streamgo.vip:8008/eudes/q5xM7ms27E6n/120427
 
-#EXTINF:0,Liga 1
-#EXTGRP:Perú
-http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/472367.ts
-#EXTINF:0,Liga 1 MAX
-#EXTGRP:Perú
+#EXTINF:0,Liga1 (PapuTV)
+#EXTGRP:Perú Liga1
+http://paputv.xyz:8080/gustavo2023/gustavo2023/422799
+#EXTINF:0,Liga1 MAX (StreamGo) Op.1
+#EXTGRP:Perú Liga1
 http://streamgo.vip:8008/eudes/q5xM7ms27E6n/252156
-#EXTINF:0,Liga 1 MAX SD
-#EXTGRP:Perú
+#EXTINF:0,Liga1 MAX (StreamGo) Op.2
+#EXTGRP:Perú Liga1
 http://streamgo.vip:8008/eudes/q5xM7ms27E6n/286827
-#EXTINF:0,Gol Peru
-#EXTGRP:Perú
+#EXTINF:0,Liga1 Max (PapuTV) Op.1
+#EXTGRP:Perú Liga1
+http://paputv.xyz:8080/gustavo2023/gustavo2023/303531
+#EXTINF:0,Liga1 Max (PapuTV) Op.2
+#EXTGRP:Perú Liga1
+http://paputv.xyz:8080/gustavo2023/gustavo2023/304118
+#EXTINF:0,Liga1 Max (PapuTV) Op.3
+#EXTGRP:Perú Liga1
+http://paputv.xyz:8080/gustavo2023/gustavo2023/387312
+#EXTINF:-1,Liga1 MAX (LatTV) Op.1
+#EXTGRP:Perú Liga1
+http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/472316.ts
+#EXTINF:-1,Liga1 MAX (LatTV) Op.2
+#EXTGRP:Perú Liga1
+http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/472317.ts
+#EXTINF:-1,Liga1 MAX (LatTV) Op.3
+#EXTGRP:Perú Liga1
+http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/472318.ts
+#EXTINF:-1,Liga1 MAX (LatTV) Op.4
+#EXTGRP:Perú Liga1
+http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/472362.ts
+#EXTINF:-1,Liga1 MAX (LatTV) Op.5
+#EXTGRP:Perú Liga1
+http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/472364.ts
+#EXTINF:-1,Liga1 MAX (LatTV) Op.6
+#EXTGRP:Perú Liga1
+http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/472366.ts
+#EXTINF:-1,Liga1 MAX (LatTV) Op.7
+#EXTGRP:Perú Liga1
+http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/472367.ts
+
+#EXTINF:0,GolPeru (StreamGo) Op.1
+#EXTGRP:Perú GolPeru
 http://streamgo.vip:8008/eudes/q5xM7ms27E6n/339097
-#EXTINF:0,Gol Peru (StreamGo)
-#EXTGRP:Perú
+#EXTINF:0,GolPeru (StreamGo) Op.2
+#EXTGRP:Perú GolPeru
 http://streamgo.vip:8008/eudes/q5xM7ms27E6n/166609
-#EXTINF:0,Movistar Deportes
+#EXTINF:0,GolPeru (PapuTV) Op.1
+#EXTGRP:Perú GolPeru
+http://paputv.xyz:8080/gustavo2023/gustavo2023/304119
+#EXTINF:0,GolPeru (PapuTV) Op.2
+#EXTGRP:Perú GolPeru
+http://paputv.xyz:8080/gustavo2023/gustavo2023/304115
+#EXTINF:-1,Gol Perú (LatTV) Op.1
+#EXTGRP:Perú GolPeru
+http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/504286.ts
+#EXTINF:-1,Gol Peru (LatTV) Op.2
+#EXTGRP:Perú GolPeru
+http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/504287.ts
+#EXTINF:-1,Gol Peru (LatTV) Op.3
+#EXTGRP:Perú GolPeru
+http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/504288.ts
+#EXTINF:-1,Gol Peru (LatTV) Op.4
+#EXTGRP:Perú GolPeru
+http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/504289.ts
+#EXTINF:-1,Gol Peru (LatTV) Op.5
+#EXTGRP:Perú GolPeru
+http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/504290.ts
+#EXTINF:-1,Gol Peru (LatTV) Op.6
+#EXTGRP:Perú GolPeru
+http://xyz.lattv.com.co:8080/GDTV2023/gdiptv2023*/504291.ts
+
+#EXTINF:0,Movistar Deportes (StreamGo) Op.1
 #EXTGRP:Perú
 http://streamgo.vip:8008/eudes/q5xM7ms27E6n/346199
-#EXTINF:0,Movistar Deportes (SD)
+#EXTINF:0,Movistar Deportes (StreamGo) Op.2
 #EXTGRP:Perú
 http://streamgo.vip:8008/eudes/q5xM7ms27E6n/166614
 
