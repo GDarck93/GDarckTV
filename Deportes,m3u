@@ -1,42 +1,8 @@
 #EXTM3U
-#EXTINF:0,WinSports
-#EXTGRP:WinSports
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/167738
-#EXTINF:0,WinSports +
-#EXTGRP:WinSports
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/167739
 
-#EXTINF:0,Directv Sports
-#EXTGRP:Directv Sports
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/167731
-#EXTINF:0,Directv Sports 2
-#EXTGRP:Directv Sports
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/339099
-#EXTINF:0,Directv Sports +
-#EXTGRP:Directv Sports
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/167732
-
-#EXTINF:0,ESPN
-#EXTGRP:ESPN
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/166603
-#EXTINF:0,ESPN2
-#EXTGRP:ESPN
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/166604
-#EXTINF:0,ESPN3
-#EXTGRP:ESPN
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/166605
-#EXTINF:0,ESPN4
-#EXTGRP:ESPN
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/167726
 #EXTINF:0,ESPN Extra
 #EXTGRP:ESPN
 http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/504251.ts
-#EXTINF:0,ESPN Deportes
-#EXTGRP:ESPN
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/326782
-#EXTINF:0,ESPN Premium
-#EXTGRP:ESPN
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/327917
 
 #EXTINF:0,Fox Sports 1 (MX)
 #EXTGRP:Fox Sports
@@ -47,56 +13,15 @@ http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/504262.ts
 #EXTINF:0,Fox Sports 3 (MX)
 #EXTGRP:Fox Sports
 http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/504264.ts
-#EXTINF:0,Fox Sports 1 (SA)
-#EXTGRP:Fox Sports
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/328108
-#EXTINF:0,Fox Sports 2 (SA)
-#EXTGRP:Fox Sports
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/328109
-#EXTINF:0,Fox Sports 3 (SA)
-#EXTGRP:Fox Sports
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/328110
-#EXTINF:0,Fox Sports Premium
-#EXTGRP:Fox Sports
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/328111
 
-#EXTINF:0,La Liga
-#EXTGRP:La Liga
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/339444
-#EXTINF:0,Liga de Campeones
-#EXTGRP:La Liga
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/339466
-#EXTINF:0,DAZN La Liga 1
-#EXTGRP:La Liga
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/339457
 #EXTINF:0,DAZN La Liga 2
 #EXTGRP:La Liga
 http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/476874.ts
 
-#EXTINF:0,bein Sports Ñ
-#EXTGRP:+ Futbol
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/167759
-#EXTINF:0,bein Sports Extra
-#EXTGRP:+ Futbol
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/322456
-#EXTINF:0,Tigo Sports (CR)
-#EXTGRP:+ Futbol
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/318953
-#EXTINF:0,FuTV (CR)
-#EXTGRP:+ Futbol
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/318943
-#EXTINF:0,TyC Sports (AR)
-#EXTGRP:+ Futbol
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/327918
+
 #EXTINF:0,TNT Sports (AR)
 #EXTGRP:+ Futbol
 http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/477566.ts
-#EXTINF:0,Caracol tv
-#EXTGRP:+ Futbol
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/318372
-#EXTINF:0,RCN
-#EXTGRP:+ Futbol
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/318383
 #EXTINF:0,Star+
 #EXTGRP:+ Futbol
 http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/503918.ts
@@ -104,24 +29,7 @@ http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/503918.ts
 #EXTINF:0,WWE Channel
 #EXTGRP:+ Deportes
 http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/477525.ts
-#EXTINF:0,UFC
-#EXTGRP:+ Deportes
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/167743
-#EXTINF:0,DAZN
-#EXTGRP:+ Deportes
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/324054
-#EXTINF:0,DAZN 2
-#EXTGRP:+ Deportes
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/324055
-#EXTINF:0,DAZN 3
-#EXTGRP:+ Deportes
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/324057
-#EXTINF:0,DAZN 4
-#EXTGRP:+ Deportes
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/324063
-#EXTINF:0,DAZN F1
-#EXTGRP:+ Deportes
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/324060
+
 #EXTINF:0,TUDN Sports USA
 #EXTGRP:+ Deportes
 http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/476478.ts
@@ -132,34 +40,6 @@ http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/476480.ts
 #EXTGRP:+ Deportes
 http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/476482.ts
 
-#EXTINF:0,TNT Sports
-#EXTGRP:Chile
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/120423
-#EXTINF:0,TNT Sports 2
-#EXTGRP:Chile
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/120425
-#EXTINF:0,TNT Sports 3
-#EXTGRP:Chile
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/120427
-
-#EXTINF:0,Liga1 (PapuTV)
-#EXTGRP:Perú Liga1
-http://paputv.xyz:8080/gustavo2023/gustavo2023/422799
-#EXTINF:0,Liga1 MAX (StreamGo) Op.1
-#EXTGRP:Perú Liga1
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/252156
-#EXTINF:0,Liga1 MAX (StreamGo) Op.2
-#EXTGRP:Perú Liga1
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/286827
-#EXTINF:0,Liga1 MAX (PapuTV) Op.1
-#EXTGRP:Perú Liga1
-http://paputv.xyz:8080/gustavo2023/gustavo2023/303531
-#EXTINF:0,Liga1 MAX (PapuTV) Op.2
-#EXTGRP:Perú Liga1
-http://paputv.xyz:8080/gustavo2023/gustavo2023/304118
-#EXTINF:0,Liga1 MAX (PapuTV) Op.3
-#EXTGRP:Perú Liga1
-http://paputv.xyz:8080/gustavo2023/gustavo2023/387312
 #EXTINF:-1,Liga1 MAX (LatTV) Op.1
 #EXTGRP:Perú Liga1
 http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/472316.ts
@@ -182,18 +62,6 @@ http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/472366.ts
 #EXTGRP:Perú Liga1
 http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/472367.ts
 
-#EXTINF:0,GolPeru (StreamGo) Op.1
-#EXTGRP:Perú GolPeru
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/339097
-#EXTINF:0,GolPeru (StreamGo) Op.2
-#EXTGRP:Perú GolPeru
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/166609
-#EXTINF:0,GolPeru (PapuTV) Op.1
-#EXTGRP:Perú GolPeru
-http://paputv.xyz:8080/gustavo2023/gustavo2023/304119
-#EXTINF:0,GolPeru (PapuTV) Op.2
-#EXTGRP:Perú GolPeru
-http://paputv.xyz:8080/gustavo2023/gustavo2023/304115
 #EXTINF:-1,GolPeru (LatTV) Op.1
 #EXTGRP:Perú GolPeru
 http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/504286.ts
@@ -212,17 +80,3 @@ http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/504290.ts
 #EXTINF:-1,GolPeru (LatTV) Op.6
 #EXTGRP:Perú GolPeru
 http://xyz.lattv.com.co:8080/JhonBca1/jhon20231/504291.ts
-
-#EXTINF:0,Movistar Deportes (StreamGo) Op.1
-#EXTGRP:Perú
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/346199
-#EXTINF:0,Movistar Deportes (StreamGo) Op.2
-#EXTGRP:Perú
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/166614
-
-#EXTINF:0,ECDF
-#EXTGRP:Ecuador
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/104111
-#EXTINF:0,GolTV
-#EXTGRP:Ecuador
-http://streamgo.vip:8008/eudes/GpGAWf8HXYsQ/104112
