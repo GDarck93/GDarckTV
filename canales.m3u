@@ -35,3 +35,33 @@ http://xyz.lattv.com.co:8080/GDTV2023/123456gd/504306.ts
 #EXTINF:0,IPE HD
 #EXTGRP:PERU
 http://xyz.lattv.com.co:8080/GDTV2023/123456gd/504330.ts
+#EXTINF:0,AUTENTICA TV
+#EXTGRP:PLAYMAX
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
+#EXTINF:0,GENIOS TV
+#EXTGRP:PLAYMAX
+https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
+#EXTINF:0,CR TV
+#EXTGRP:PLAYMAX
+https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
+#EXTINF:0,VINILOS TV
+#EXTGRP:PLAYMAX
+https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
+#EXTINF:0,VIA ALTO MAYO TV
+#EXTGRP:PLAYMAX
+https://live.obslivestream.com/viaaltomayomux/tracks-a1/mono.m3u8
+#EXTINF:0,NORSELVA
+#EXTGRP:PLAYMAX
+https://live.obslivestream.com/norselvatv/tracks-v1a1/mono.m3u8
+#EXTINF:0,SAN JUANERA
+#EXTGRP:PLAYMAX
+https://live.obslivestream.com/sanjuanera/tracks-v1a1/mono.m3u8
+#EXTINF:0,PLANETA TV
+#EXTGRP:PLAYMAX
+https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
+#EXTINF:0,W TV
+#EXTGRP:PLAYMAX
+https://live.obslivestream.com/wtv/tracks-v1a1/mono.m3u8
+#EXTINF:0,VZ TV
+#EXTGRP:PLAYMAX
+https://live.obslivestream.com/vztv/tracks-v1a1/mono.m3u8
