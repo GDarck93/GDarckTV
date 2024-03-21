@@ -1,2 +1,7 @@
 #EXTM3U
-#EXTINF:-1
+#EXTINF:-1,L1
+#EXTGRP:PERU
+https://zonamovie.live:443/play/u3IWvyfnQ_i9BOf0cYGaobBAYMNYH6VxoRiinkwe0xg/ts
+#EXTINF:-1,L1
+#EXTGRP:PERU
+https://zonamovie.live:443/play/u3IWvyfnQ_i9BOf0cYGaoX5x0WS_XnUeLD3Rw02bmu4/ts
