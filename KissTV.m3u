@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:0,ESPN Extra
+#EXTGRP:ESPN
+http://xyz.lattv.com.co:8080/GDTV2023/123456gd/504251.ts
