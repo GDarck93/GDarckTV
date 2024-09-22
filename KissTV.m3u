@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:0,AMERICA
+#EXTGRP:PERU
+http://boriflix.tv:80/GenBca2024/G076495Bca/329263.ts
+
+#EXTINF:0,WILLAX
+#EXTGRP:PERU
+http://boriflix.tv:80/GenBca2024/G076495Bca/329287.ts
+
 #EXTINF:0,ESPN Extra
-#EXTGRP:ESPN
+#EXTGRP:PERU
+http://xyz.lattv.com.co:8080/GDTV2023/123456gd/504251.ts
+
+#EXTINF:0,ESPN Extra
+#EXTGRP:PERU
+http://xyz.lattv.com.co:8080/GDTV2023/123456gd/504251.ts
+
+#EXTINF:0,ESPN Extra
+#EXTGRP:PERU
+http://xyz.lattv.com.co:8080/GDTV2023/123456gd/504251.ts
+
+#EXTINF:0,ESPN Extra
+#EXTGRP:PERU
+http://xyz.lattv.com.co:8080/GDTV2023/123456gd/504251.ts
+
+#EXTINF:0,ESPN Extra
+#EXTGRP:PERU
+http://xyz.lattv.com.co:8080/GDTV2023/123456gd/504251.ts
+
+#EXTINF:0,ESPN Extra
+#EXTGRP:PERU
+http://xyz.lattv.com.co:8080/GDTV2023/123456gd/504251.ts
+
+#EXTINF:0,ESPN Extra
+#EXTGRP:PERU
+http://xyz.lattv.com.co:8080/GDTV2023/123456gd/504251.ts
+
+#EXTINF:0,ESPN Extra
+#EXTGRP:PERU
 http://xyz.lattv.com.co:8080/GDTV2023/123456gd/504251.ts
